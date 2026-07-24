@@ -1,253 +1,178 @@
-
-<h1 align="center">Hi 👋, I'm Jitendra Kumar</h1>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&weight=600&size=28&pause=1000&color=36D1DC&center=true&vCenter=true&width=700&lines=🙏+नमस्ते+World+🌍;Hi+👋,+I'm+Narender+Singh;A+Creative+Full+Stack+App+%26+Web+Developer;Code.+Create.+Inspire.+🚀" alt="Typing SVG" />
-</div>
-
-
-
-
-<div align="left">
-  <img src="https://komarev.com/ghpvc/?username=Jitendrauno&style=flat-square&color=00D4FF" alt="Profile Views" />
-</div>
+<!--
+  GitHub Profile README for Jitendra Kumar
+  Place this file as README.md inside a public repository named: Jitendrauno
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Hello+World+%F0%9F%92%BB;Welcome+to+my+Profile+%F0%9F%8E%89;Full+Stack+Developer+%F0%9F%9A%80;Let's+Build+Something+Amazing+%F0%9F%8E%89" alt="Typing SVG" />
-</div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="200" />
+# Hi, I'm Jitendra Kumar 👋
+
+### Full-Stack Developer · Product Builder · Open-Source Enthusiast
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFA6&center=true&vCenter=true&width=760&lines=Building+useful+web+and+mobile+products;Turning+ideas+into+clean%2C+scalable+software;Learning%2C+shipping%2C+and+improving+every+day)](https://git.io/typing-svg)
+
+[![Profile views](https://komarev.com/ghpvc/?username=Jitendrauno&label=Profile%20views&color=00bfa6&style=flat-square)](https://github.com/Jitendrauno)
+[![GitHub followers](https://img.shields.io/github/followers/Jitendrauno?label=Followers&style=flat-square&color=00bfa6)](https://github.com/Jitendrauno?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/Jitendrauno?affiliations=OWNER&style=flat-square&label=Total%20Stars&color=00bfa6)](https://github.com/Jitendrauno?tab=repositories)
+
 </div>
 
 ---
 
+## About me
+
+I'm **Jitendra Kumar**, a developer focused on building practical digital products across web, mobile, automation, and self-hosted platforms. I enjoy taking a project from idea to a usable product—designing the interface, developing the backend, connecting data, and preparing it for deployment.
+
+- 🔭 Currently building **JitendraWA**, a self-hosted WhatsApp CRM, Team Inbox, Campaign, Analytics, and Automation platform
+- 🧩 Interested in full-stack applications, developer tools, automation, and product-focused engineering
+- 🌱 Improving my skills in system design, backend architecture, Flutter, Docker, and production deployment
+- 🤝 Open to meaningful open-source collaboration and practical product ideas
+- 💬 Ask me about React, Node.js, APIs, databases, responsive UI, or project architecture
+- 📫 Reach me at **[jitendraeditiz@gmail.com](mailto:jitendraeditiz@gmail.com)**
+
+---
+
+## What I work with
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Jitendrauno&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="Trophy" />
+
+### Languages
+
+[![Languages](https://skillicons.dev/icons?i=js,ts,python,java,dart,html,css&theme=dark)](https://skillicons.dev)
+
+### Frontend and mobile
+
+[![Frontend](https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap,flutter&theme=dark)](https://skillicons.dev)
+
+### Backend and databases
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,mongodb,mysql,postgres,sqlite&theme=dark)](https://skillicons.dev)
+
+### Tools and platforms
+
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio,figma,postman&theme=dark)](https://skillicons.dev)
+
 </div>
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jitendrauno&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=00D4FF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jitendrauno&theme=radical&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakNum=FFFFFF&currStreakLabel=00D4FF&sideNums=FFFFFF&sideLabels=00D4FF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
+## Featured projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendrauno&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
----
-
-## 🚀 **About Me - My Journey**
-
-
-
-```javascript
-const narender = {
-    pronouns: "He" | "Him",
-    passion: "🚀 Full Stack Development",
-    code: ["JavaScript", "Python", "Java", "C++", "Dart"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Vue", "Angular"],
-            css: ["Bootstrap", "Tailwind", "Material-UI"]
-        },
-        backEnd: {
-            js: ["Node", "Express"],
-            python: ["Django", "Flask"],
-            java: ["Spring Boot"]
-        },
-        mobile: ["Flutter", "React Native"],
-        databases: ["MongoDB", "MySQL", "PostgreSQL"],
-        tools: ["Git", "Docker", "VS Code"]
-    },
-    currentFocus: "Full Stack Development & Mobile Apps",
-    funFact: "There are two ways to write error-free programs; only the third one works",
-    philosophy: "Code with passion, build with innovation, serve with excellence 🚀"
-};
-```
-
----
-
-
-- 🔭 **Currently Working On:** Advanced Full Stack Applications & Mobile Development
-- 🌱 **Learning:** Advanced Flutter, System Design, Performance Optimization
-- 👯 **Looking to Collaborate:** Open Source Projects, Innovative Ideas
-- 💬 **Ask Me About:** Web Development, Mobile Apps, System Design
-- 📫 **Reach Me:** [narendersingh8515@gmail.com](mailto:narendersingh8515@gmail.com)
-- 🎯 **Goal:** Creating innovative solutions that make a difference
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> My Tech Stack</b> 💻
-
-<table align="center">
+<table>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js" width="55" height="55" /><br>JavaScript</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=python" width="55" height="55" /><br>Python</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java" width="55" height="55" /><br>Java</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=cpp" width="55" height="55" /><br>C++</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=dart" width="55" height="55" /><br>Dart</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=react" width="55" height="55" /><br>React</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vuejs" width="55" height="55" /><br>Vue.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=angular" width="55" height="55" /><br>Angular</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html" width="55" height="55" /><br>HTML</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css" width="55" height="55" /><br>CSS</td>
+    <td width="50%" valign="top">
+      <h3>JitendraWA</h3>
+      <p>A self-hosted WhatsApp operations suite with CRM, scheduled campaigns, Team Inbox, authentication, analytics, suppression controls, and production deployment tooling.</p>
+      <p><strong>Stack:</strong> NestJS, React, TypeScript, SQLite/PostgreSQL, Docker</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jitendrauno/Leyo">Leyo E-Commerce</a></h3>
+      <p>An e-commerce project focused on a clean shopping experience and practical product workflows.</p>
+      <p><a href="https://github.com/Jitendrauno/Leyo">View repository →</a></p>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=tailwind" width="55" height="55" /><br>Tailwind CSS</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bootstrap" width="55" height="55" /><br>Bootstrap</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=nodejs" width="55" height="55" /><br>Node.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=express" width="55" height="55" /><br>Express.js</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=django" width="55" height="55" /><br>Django</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask" width="55" height="55" /><br>Flask</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=spring" width="55" height="55" /><br>Spring Boot</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flutter" width="55" height="55" /><br>Flutter</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mongodb" width="55" height="55" /><br>MongoDB</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=mysql" width="55" height="55" /><br>MySQL</td>
+    <td width="50%" valign="top">
+      <h3><a href="https://photo-studio-pro.vercel.app">Photo Studio Pro</a></h3>
+      <p>A modern photo-studio web experience with a polished, responsive presentation.</p>
+      <p><a href="https://photo-studio-pro.vercel.app">View live project →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://premium-tailoring-website.vercel.app">Premium Tailoring Website</a></h3>
+      <p>A premium service website designed for strong visual identity and mobile-first usability.</p>
+      <p><a href="https://premium-tailoring-website.vercel.app">View live project →</a></p>
+    </td>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgresql" width="55" height="55" /><br>PostgreSQL</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git" width="55" height="55" /><br>Git</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=github" width="55" height="55" /><br>GitHub</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=docker" width="55" height="55" /><br>Docker</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode" width="55" height="55" /><br>VS Code</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=androidstudio" width="55" height="55" /><br>Android Studio</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=figma" width="55" height="55" /><br>Figma</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postman" width="55" height="55" /><br>Postman</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux" width="55" height="55" /><br>Linux</td>
-    <td align="center" width="90"><img src="https://skillicons.dev/icons?i=windows" width="55" height="55" /><br>Windows</td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jitendrauno/College-management-System">College Management System</a></h3>
+      <p>A management application for organizing academic and administrative workflows.</p>
+      <p><a href="https://github.com/Jitendrauno/College-management-System">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jitendrauno/ApnaBlog">ApnaBlog</a></h3>
+      <p>A full-stack blogging project for publishing and managing content.</p>
+      <p><a href="https://github.com/Jitendrauno/ApnaBlog">View repository →</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jitendrauno/github-profile-scraper">GitHub Profile Scraper</a></h3>
+      <p>A developer utility for collecting and presenting public GitHub profile information.</p>
+      <p><a href="https://github.com/Jitendrauno/github-profile-scraper">View repository →</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/Jitendrauno/NOTES-MEET">NOTES-MEET</a></h3>
+      <p>A collaborative notes and productivity project for shared learning workflows.</p>
+      <p><a href="https://github.com/Jitendrauno/NOTES-MEET">View repository →</a></p>
+    </td>
   </tr>
 </table>
 
 ---
 
-## 📝 **PROJECT's ZONE** (Live Projects with Links)
+## Current focus
 
-
-| Project                                                                                                    |
-|------------------------------------------------------------------------------------------------------------|
-| 🌐 **Leyo E-Commerce** [**🔗**](https://github.com/Jitendrauno/Leyo)
-| 🌐 **Photo Studio Pro** [**🔗**](https://photo-studio-pro.vercel.app) 
-  🌐 **Premium Tailoring Website** [**🔗**](https://premium-tailoring-website.vercel.app)
-| 🌐 **College Management System** [**🔗**](https://github.com/Jitendrauno/College-management-System) 
-| 🌐  **Narender Portfolio** [**🔗**](https://narender-portfolio.netlify.app/) 
-| 🌐 **ApnaBlog** [**🔗**](https://github.com/Jitendrauno/ApnaBlog) 
-| 🌐  **GitHub Profile Scraper** [**🔗**](https://github.com/Jitendrauno/github-profile-scraper) 
-| 🌐 **NOTES-MEET** [**🔗**](https://github.com/Jitendrauno/NOTES-MEET) 
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jitendrauno&theme=radical" alt="Profile Details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jitendrauno&theme=radical" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jitendrauno&theme=radical" alt="Most Commit Language" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jitendrauno&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jitendrauno&theme=radical" alt="Productive Time" />
-</div>
-
----
-
-## 🌟 **Achievements & Certifications**
-
-- 🏆 **LeetCode:** [Narender1](https://leetcode.com/narender1/)
-- 📚 **GeeksforGeeks:** [narender22](https://www.geeksforgeeks.org/user/narender22/)
-- 💼 **LinkedIn:** [narender-singh1](https://www.linkedin.com/in/narender-singh1/)
-- 🌐 **Portfolio:** [narender-portfolio.netlify.app](https://narender-portfolio.netlify.app/)
-
----
-
-## 🤝 **Let's Connect**
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/narender-singh1/">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:narendersingh8515@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://narender-portfolio.netlify.app/">
-    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://leetcode.com/narender1/">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/user/narender22/">
-    <img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
-  </a>
-</div>
-
----
-
-## 🎉 **Fun Facts & Current Vibes**
-
-- 🎯 **Goal:** Creating innovative solutions that make a difference
-- 🌍 **Location:** Haryana, India
-- 💡 **Motto:** "Code is poetry, and every bug is a feature waiting to be discovered"
-- 🚀 **Next Big Thing:** Building scalable applications that impact millions
-- 🎵 **Currently Vibing To:** Coding with some epic beats! 🎧
-- 🎮 **When Not Coding:** Exploring new technologies, reading tech blogs, and contributing to open source
-- 🌟 **Passion:** Full Stack Development & Mobile Apps
-
----
-
-## 🎨 **Creative Corner - What I'm Building**
-
-```javascript
-// Current Project Status
-const currentProjects = {
-    portfolio: "🚀 Live & Responsive",
-    blogApp: "📝 Full Stack Blog Platform",
-    ecommerce: "🛒 Leyo - Modern E-Commerce",
-    photoStudio: "📸 Photo Studio Pro",
-    githubScraper: "🔍 Profile Analytics Tool",
-    notesMeet: "📚 Collaborative Notes Platform"
-};
-
-// Tech Stack I'm Mastering
-const mastering = [
-    "⚡ Advanced Flutter Development",
-    "🌐 System Design & Architecture",
-    "🤖 Performance Optimization",
-    "📱 Cross-Platform Mobile Apps",
-    "🔒 Security & Best Practices"
-];
-
-// Development Philosophy
-const philosophy = "🚀 Code with passion, build with innovation, serve with excellence";
+```text
+Build      → Complete, useful products—not just isolated demos
+Improve    → Backend architecture, system design, performance, and security
+Explore    → Automation, self-hosting, AI-assisted workflows, and mobile apps
+Contribute → Open-source projects with clear real-world value
 ```
 
 ---
 
-<div align="center">
-  <h3>🌟 Show some ❤️ by starring some of the repositories!</h3>
-  
----
+## GitHub activity
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!+%F0%9F%99%8F;Let's+connect+and+create+something+amazing!+%F0%9F%8E%89;Happy+Coding!+%F0%9F%92%BB;Full+Stack+Development+%F0%9F%9A%80" alt="Typing SVG" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=Jitendrauno&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github&include_all_commits=true" alt="Jitendra Kumar's GitHub stats" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jitendrauno&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most used languages" />
 </div>
 
----
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Jitendrauno&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
 <div align="center">
-  <h4>🚀 Ready to collaborate on amazing projects!</h4>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jitendrauno&theme=github-compact&hide_border=true&area=true" alt="Contribution activity graph" />
+</div>
+
+> GitHub statistics are generated by third-party services and may occasionally be rate-limited or temporarily unavailable.
 
 ---
 
+## Development principles
+
+```javascript
+const jitendra = {
+  mindset: "Learn by building",
+  priorities: ["Useful products", "Clean UI", "Reliable APIs", "Continuous improvement"],
+  workingStyle: "Plan → Build → Test → Ship → Improve",
+  currentGoal: "Create scalable products that solve real problems"
+};
+```
+
+- Write code that is understandable after the excitement of launch is over
+- Prefer simple, maintainable solutions before unnecessary complexity
+- Treat responsive design, security, accessibility, and documentation as product features
+- Keep learning through real projects and honest iteration
+
+---
+
+## Let's connect
+
 <div align="center">
-  <h3>🚀 Built with ❤️ by Jitendra Kumar 🚀</h3>
-  <p><em>"Code with passion, build with innovation, serve with excellence"</em></p>
-</div> 
+  <a href="https://github.com/Jitendrauno">
+    <img src="https://img.shields.io/badge/GitHub-Jitendrauno-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  <a href="mailto:jitendraeditiz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jitendraeditiz%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <br />
+  <strong>Open to collaboration on useful products and open-source ideas.</strong>
+  <br /><br />
+  <em>Build with purpose. Learn continuously. Improve every release.</em>
+</div>
